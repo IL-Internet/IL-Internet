@@ -8,5 +8,4 @@
 [![winutil](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=winutil)](https://github.com/IL-Internet/winutil)
 ## [I'm here](https://il-internet.github.io/)
 [![IL-Internet.github.io](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=IL-Internet.github.io)](https://github.com/IL-Internet/IL-Internet.github.io)
-[![IL-Internet](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=IL-Internet)](https://github.com/IL-Internet/IL-Internet)
 [![.github](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=.github)](https://github.com/IL-Internet/.github)
