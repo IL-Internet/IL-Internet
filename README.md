@@ -10,6 +10,7 @@
 [![wordnet-angular](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=wordnet-angular)](https://github.com/IL-Internet/wordnet-angular)
 [![turndown](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=turndown)](https://github.com/IL-Internet/turndown)
 [![clipboard2markdown](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=clipboard2markdown)](https://github.com/IL-Internet/clipboard2markdown)
+[![one-html-page-challenge](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=one-html-page-challenge)](https://github.com/IL-Internet/one-html-page-challenge)
 ## [I'm here](https://il-internet.github.io/)
 [![IL-Internet.github.io](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=IL-Internet.github.io)](https://github.com/IL-Internet/IL-Internet.github.io)
 [![.github](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=.github)](https://github.com/IL-Internet/.github)
