@@ -1,5 +1,5 @@
 [![phcode.dev](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=phcode.dev)](https://github.com/IL-Internet/phcode.dev)
-[![Markdown-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Markdown-Viewer)](https://github.com/IL-Internet/Markdown-Viewer)
+[![Markdown-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Markdown-Viewer&description_lines_count=1)](https://github.com/IL-Internet/Markdown-Viewer)
 [![WikiText](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=WikiText)](https://github.com/IL-Internet/WikiText)
 [![Python](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Python)](https://github.com/IL-Internet/Python)
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=JavaScript)](https://github.com/IL-Internet/JavaScript)
@@ -14,5 +14,3 @@
 ## [I'm here](https://il-internet.github.io/)
 [![IL-Internet.github.io](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=IL-Internet.github.io)](https://github.com/IL-Internet/IL-Internet.github.io)
 [![.github](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=.github)](https://github.com/IL-Internet/.github)
-
-![](https://komarev.com/ghpvc/?username=IL-Internet)
