@@ -12,6 +12,7 @@
 [![qwenlm.github.io](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=qwenlm.github.io)](https://github.com/IL-Internet/qwenlm.github.io)
 [![turndown](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=turndown)](https://github.com/IL-Internet/turndown)
 [![one-html-page-challenge](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=one-html-page-challenge&description_lines_count=1)](https://github.com/IL-Internet/one-html-page-challenge)
+[![yt-dlp](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=yt-dlp)](https://github.com/IL-Internet/yt-dlp)
 ## [I'm here](https://il-internet.github.io/)
 [![IL-Internet.github.io](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=IL-Internet.github.io)](https://github.com/IL-Internet/IL-Internet.github.io)
 [![.github](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=.github)](https://github.com/IL-Internet/.github)
