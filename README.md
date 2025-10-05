@@ -18,4 +18,5 @@
 <!--
 https://github.com/voidtools/http_server
 https://github.com/openai/GPTs-are-GPTs
+https://github.com/wikimedia/mediawiki-api-demos
 -->
