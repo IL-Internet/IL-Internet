@@ -27,4 +27,5 @@ https://github.com/wikimedia/mediawiki-api-demos
 https://github.com/nltk/nltk.github.com
 https://github.com/jabcode/jabcode
 https://github.com/MaxAlyokhin/binary-synth
+https://github.com/cyphar/paperback
 -->
