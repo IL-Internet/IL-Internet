@@ -26,4 +26,5 @@ https://github.com/openai/GPTs-are-GPTs
 https://github.com/wikimedia/mediawiki-api-demos
 https://github.com/nltk/nltk.github.com
 https://github.com/jabcode/jabcode
+https://github.com/MaxAlyokhin/binary-synth
 -->
