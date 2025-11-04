@@ -29,4 +29,5 @@ https://github.com/jabcode/jabcode
 https://github.com/MaxAlyokhin/binary-synth
 https://github.com/cyphar/paperback
 https://github.com/cyphar/ascii-snake
+https://github.com/nayuki/QR-Code-generator
 -->
