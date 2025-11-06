@@ -1,4 +1,7 @@
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
+
+<details>
+
 [![Markdown-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Markdown-Viewer&description_lines_count=1)](https://github.com/IL-Internet/Markdown-Viewer)
 [![HTML-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=HTML-Viewer)](https://github.com/IL-Internet/HTML-Viewer)
 [![JS-Editor](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=JS-Editor)](https://github.com/IL-Internet/JS-Editor)
@@ -30,4 +33,7 @@
 [![image2cpp](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=image2cpp)](https://github.com/IL-Internet/image2cpp)
 [![helium](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=helium)](https://github.com/IL-Internet/helium)
 [![pdf-lib](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdf-lib)](https://github.com/IL-Internet/pdf-lib)
+
+</details>
+
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
