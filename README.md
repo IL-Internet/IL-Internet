@@ -1,6 +1,6 @@
 [IL-Internet](https://il-internet.github.io/)
 
-<details><summary>Click to see all of the repos</summary>
+<details>
   
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
 
