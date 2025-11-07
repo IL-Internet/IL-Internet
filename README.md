@@ -1,6 +1,8 @@
-###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
+[IL-Internet](https://il-internet.github.io/)
 
-<details>
+<details><summary>Click to see all of the repos</summary>
+  
+###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
 
 [![Markdown-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Markdown-Viewer&description_lines_count=1)](https://github.com/IL-Internet/Markdown-Viewer)
 [![HTML-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=HTML-Viewer)](https://github.com/IL-Internet/HTML-Viewer)
@@ -34,6 +36,6 @@
 [![helium](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=helium)](https://github.com/IL-Internet/helium)
 [![pdf-lib](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdf-lib)](https://github.com/IL-Internet/pdf-lib)
 
-</details>
-
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
+
+</details>
