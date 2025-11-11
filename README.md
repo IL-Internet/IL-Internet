@@ -35,7 +35,10 @@
 [![image2cpp](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=image2cpp)](https://github.com/IL-Internet/image2cpp)
 [![helium](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=helium)](https://github.com/IL-Internet/helium)
 [![pdf-lib](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdf-lib)](https://github.com/IL-Internet/pdf-lib)
-<!-- https://github.com/art-drobanov/PaperBack -->
+<!-- 
+https://github.com/art-drobanov/PaperBack - PaperBack1
+https://github.com/timwaters/paperback - paperback2
+-->
 
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
 
