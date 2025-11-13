@@ -38,6 +38,7 @@
 <!-- 
 https://github.com/art-drobanov/PaperBack - PaperBack1
 https://github.com/timwaters/paperback - paperback2
+https://github.com/pkolt/bitmap_editor
 -->
 
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
