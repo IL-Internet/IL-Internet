@@ -35,18 +35,15 @@
 [![image2cpp](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=image2cpp)](https://github.com/IL-Internet/image2cpp)
 [![helium](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=helium)](https://github.com/IL-Internet/helium)
 [![pdf-lib](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdf-lib)](https://github.com/IL-Internet/pdf-lib)
-<!-- 
-https://github.com/art-drobanov/PaperBack - PaperBack1
-https://github.com/timwaters/paperback - paperback2
-https://github.com/pkolt/bitmap_editor
-https://github.com/emutyworks/BitmapEditor
-https://github.com/foliojs/pdfkit
-https://github.com/mozilla/pdf.js
-https://github.com/parallax/jsPDF
-https://github.com/bpampuch/pdfmake
-https://github.com/DevelopingMagic/pdfassembler
-
--->
+[![PaperBack1](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=PaperBack1)](https://github.com/IL-Internet/PaperBack1)
+[![paperback2](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=paperback2)](https://github.com/IL-Internet/paperback2)
+[![bitmap_editor](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=bitmap_editor)](https://github.com/IL-Internet/bitmap_editor)
+[![BitmapEditor](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=BitmapEditor)](https://github.com/IL-Internet/BitmapEditor)
+[![pdfkit](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdfkit)](https://github.com/IL-Internet/pdfkit)
+[![pdf.js](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdf.js)](https://github.com/IL-Internet/pdf.js)
+[![jsPDF](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=jsPDF)](https://github.com/IL-Internet/jsPDF)
+[![pdfmake](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdfmake)](https://github.com/IL-Internet/pdfmake)
+[![pdfassembler](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=pdfassembler)](https://github.com/IL-Internet/pdfassembler)
 
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
 
