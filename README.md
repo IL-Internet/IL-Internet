@@ -53,6 +53,8 @@ https://github.com/torvalds/linux
 https://github.com/wikimedia/mediawiki
 https://github.com/facebookresearch/cc_net
 https://github.com/eyaler/hebrew_wordlists
-https://github.com/Joohansson/offline-qr
+https://github.com/Joohansson/offline-qr VVV
+https://github.com/mebjas/html5-qrcode VVV
+https://github.com/scanapp-org/scanapp-org.github.io
 -->
 
