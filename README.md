@@ -53,5 +53,6 @@ https://github.com/torvalds/linux
 https://github.com/wikimedia/mediawiki
 https://github.com/facebookresearch/cc_net
 https://github.com/eyaler/hebrew_wordlists
+https://github.com/Joohansson/offline-qr
 -->
 
