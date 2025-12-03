@@ -1,12 +1,16 @@
 [IL-Internet](https://il-internet.github.io/)
 
+
+[![QwertyToHebrew](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=QwertyToHebrew)](https://github.com/IL-Internet/QwertyToHebrew)
+[![JS-Editor](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=JS-Editor)](https://github.com/IL-Internet/JS-Editor)
+[![HTML-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=HTML-Viewer)](https://github.com/IL-Internet/HTML-Viewer)
+
+
 <details>
   
 ###### `||| | | | | `[IL-Internet](https://il-internet.github.io/)` | | | | | |||||| | | | | |||| | | | | | |  |   |    |    |      |       |      |   |   |  | |||`
 
 [![Markdown-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=Markdown-Viewer&description_lines_count=1)](https://github.com/IL-Internet/Markdown-Viewer)
-[![HTML-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=HTML-Viewer)](https://github.com/IL-Internet/HTML-Viewer)
-[![JS-Editor](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=JS-Editor)](https://github.com/IL-Internet/JS-Editor)
 [![MiniCodePen](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=MiniCodePen)](https://github.com/IL-Internet/MiniCodePen)
 [![phcode.dev](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=phcode.dev)](https://github.com/IL-Internet/phcode.dev)
 [![WikiText](https://github-readme-stats.vercel.app/api/pin/?username=IL-Internet&repo=WikiText)](https://github.com/IL-Internet/WikiText)
