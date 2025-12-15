@@ -57,5 +57,6 @@ https://github.com/eyaler/hebrew_wordlists
 https://github.com/Joohansson/offline-qr VVV
 https://github.com/mebjas/html5-qrcode VVV
 https://github.com/scanapp-org/scanapp-org.github.io
+https://github.com/hastagAB/Awesome-Python-Scripts
 -->
 
